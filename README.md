@@ -66,6 +66,15 @@ RANKX(
     [Total Sales]
 )
 
+# Data Model (Star Schema)
+                    Dim Date
+                       |
+     Dim Customer--- Fact Sales --- Dim Product
+                       |
+                  Dim Region
+                       |
+                Dim Salesperson
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
