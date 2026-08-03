@@ -1,9 +1,6 @@
 # Executive-Business-Dashboard
 Executive Business Dashboard built in Power BI featuring KPI cards, revenue and profit analysis, regional and category insights, top-performing products, interactive filters, and drill-down capabilities. Designed using DAX, Power Query, and a star schema data model to support executive decision-making.
 
-# Power BI Dashboard Project | Executive Business Dashboard
-Excited to share one of my latest **Power BI dashboard concepts**—an **Executive Business Dashboard** designed to provide leadership teams with a comprehensive view of business performance.
-
 # Dashboard Highlights:
 Executive KPI Cards (Revenue, Profit, Margin, Growth, Orders & Customers)
 Revenue Trend Analysis
