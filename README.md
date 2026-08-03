@@ -42,5 +42,4 @@ RANKX(
 )
 
 ## Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
+![Dashboard](dashboard.png)
